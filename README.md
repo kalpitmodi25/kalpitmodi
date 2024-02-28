@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kalpitmodh
+- 👋 Hi, I’m @kalpitmodi
 - 👀 I’m interested in ...  Product Management, Scrum, MySQL
 - 🌱 I’m currently learning ... Product Management, Scrum, MySQL
 - 💞️ I’m looking to collaborate on ... Number Plate Recognition Software
